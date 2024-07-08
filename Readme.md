@@ -1,9 +1,13 @@
+# Updated USB-C
+![HackRF-USBC](https://raw.githubusercontent.com/ICantMakeThings/hackrf/master/docs/images/USBC-CLOSE.png)
+##### Added USB type C to the pcb, have not eddited anything else.
+
 # HackRF
 
 This repository contains hardware designs and software for HackRF,
 a low cost, open source Software Defined Radio platform.
 
-![HackRF One](https://raw.github.com/mossmann/hackrf/master/docs/images/HackRF-One-fd0-0009.jpeg)
+![HackRF One](https://raw.githubusercontent.com/ICantMakeThings/hackrf/master/docs/images/PCB.png)
 
 (photo by fd0 from https://github.com/fd0/hackrf-one-pictures)
 
